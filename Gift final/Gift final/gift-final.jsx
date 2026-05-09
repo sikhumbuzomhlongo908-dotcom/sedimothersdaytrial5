@@ -1,7 +1,7 @@
 import { useState } from "react";
 
-const SKEB = "/images/IMG-2026001.jpg";
-const LES = "/images/IMG-2026002.jpg";
+const SKEB_IMG = "/images/IMG-2026001.jpg";
+const LES_IMG = "/images/IMG-2026002.jpg";
 
 const css = `
   @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap');
